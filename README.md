@@ -5,6 +5,7 @@ Smart Recruitment System is a web-based application developed using PHP, MySQL, 
 
 This system allows administrators to post job vacancies, manage candidate applications, schedule interviews, and track the hiring process. It reduces manual work and improves recruitment management.
 
+
 **Features**
 -Admin login system
 -Add and manage job vacancies
