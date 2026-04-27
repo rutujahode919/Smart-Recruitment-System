@@ -23,10 +23,8 @@ Cloud Deployment: AWS EC2
 Version Control: Git and GitHub
 
 **🌐Live Project**
-http://13.234.117.54/
-http://13.234.117.54/login.php
-http://13.234.117.54/dashboard.php
-http://13.234.117.54/jobs.php
+http://http://13.126.190.41//
+
     
 
     
